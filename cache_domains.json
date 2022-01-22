@@ -26,6 +26,11 @@
 			"domain_files": ["daybreak.txt"]
 		},
 		{
+			"name": "debian",
+			"description": "Debian Repository",
+			"domain_files": ["debian.txt"]
+		},
+		{
 			"name": "epicgames",
 			"description": "CDN for Epic Games",
 			"domain_files": ["epicgames.txt"]
@@ -36,19 +41,34 @@
 			"domain_files": ["frontier.txt"]
 		},
 		{
+			"name": "github",
+			"description": "github",
+			"domain_files": ["github.txt"]
+		},
+		{
+			"name": "grandstream",
+			"description": "grandstream voip",
+			"domain_files": ["grandstream.txt"]
+		},
+		{
 			"name": "hirez",
 			"description": "CDN for hirez",
 			"domain_files": ["hirez.txt"]
 		},
 		{
 			"name": "mihoyo",
-			"description": "Genshin Impact",
+			"description": "Genshin Impact/Honkai Impact",
 			"domain_files": ["mihoyo.txt"]
 		},
 		{
-			"name": "nexusmods",
-			"description": "Nexus mods / skyrim content",
-			"domain_files": ["nexusmods.txt"]
+			"name": "mozilla",
+			"description": "mozilla",
+			"domain_files": ["mozilla.txt"]
+		},
+		{
+			"name": "netgate",
+			"description": "NetGate Repository",
+			"domain_files": ["netgate.txt"]
 		},
 		{
 			"name": "neverwinter",
@@ -56,9 +76,24 @@
 			"domain_files": ["neverwinter.txt"]
 		},
 		{
+			"name": "nexusmods",
+			"description": "Nexus mods / skyrim content",
+			"domain_files": ["nexusmods.txt"]
+		},
+		{
 			"name": "nintendo",
 			"description": "CDN for Nintendo consoles and download servers",
 			"domain_files": ["nintendo.txt"]
+		},
+		{
+			"name": "nirsoft",
+			"description": "nirsoft windows tools",
+			"domain_files": ["nirsoft.txt"]
+		},
+		{
+			"name": "nvidia",
+			"description": "nvidia drivers",
+			"domain_files": ["nvidia.txt"]
 		},
 		{
 			"name": "origin",
@@ -71,6 +106,11 @@
 			"name": "pathofexile",
 			"description": "CDN for Path Of Exile",
 			"domain_files": ["pathofexile.txt"]
+		},
+		{
+			"name": "proxmox",
+			"description": "Proxmox Repository",
+			"domain_files": ["proxmox.txt"]
 		},
 		{
 			"name": "renegadex",
@@ -93,6 +133,11 @@
 			"domain_files": ["sony.txt"]
 		},
 		{
+			"name": "sourceforge",
+			"description": "sourceforge",
+			"domain_files": ["sourceforge.txt"]
+		},
+		{
 			"name": "square",
 			"description": "CDN for Final Fantasy XIV",
 			"domain_files": ["square.txt"]
@@ -103,19 +148,39 @@
 			"domain_files": ["steam.txt"]
 		},
 		{
-			"name": "uplay",
-			"description": "CDN for uplay downloader",
-			"domain_files": ["uplay.txt"]
-		},
-		{
 			"name": "teso",
 			"description": "CDN for The Elder Scrolls Online",
 			"domain_files": ["teso.txt"]
 		},
 		{
+			"name": "turnkeylinux",
+			"description": "turnkeylinux",
+			"domain_files": ["turnkeylinux.txt"]
+		},
+		{
+			"name": "ubiquiti",
+			"description": "Ubiquiti updates",
+			"domain_files": ["ubiquiti.txt"]
+		},
+		{
+			"name": "ubuntu",
+			"description": "Ubuntu Repository",
+			"domain_files": ["ubuntu.txt"]
+		},
+		{
+			"name": "uplay",
+			"description": "CDN for uplay downloader",
+			"domain_files": ["uplay.txt"]
+		},
+		{
 			"name": "warframe",
 			"description": "CDN for Warframe",
 			"domain_files": ["warframe.txt"]
+		},
+		{
+			"name": "winscp",
+			"description": "WinSCP",
+			"domain_files": ["winscp.txt"]
 		},
 		{
 			"name": "wargaming",
