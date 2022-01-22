@@ -1,0 +1,2 @@
+download.proxmox.com
+enterprise.proxmox.com
