@@ -178,14 +178,14 @@
 			"domain_files": ["warframe.txt"]
 		},
 		{
-			"name": "winscp",
-			"description": "WinSCP",
-			"domain_files": ["winscp.txt"]
-		},
-		{
 			"name": "wargaming",
 			"description": "CDN for wargaming.net",
 			"domain_files": ["wargaming.net.txt"]
+		},
+		{
+			"name": "winscp",
+			"description": "WinSCP",
+			"domain_files": ["winscp.txt"]
 		},
 		{
 			"name": "wsus",
