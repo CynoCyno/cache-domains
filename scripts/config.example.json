@@ -3,7 +3,7 @@
     "generic":	["192.168.1.17"]
   },
   "cache_domains": {
-
+    
     "arenanet":     "generic",
     "blizzard":     "generic",
     "bsg":          "generic",
@@ -43,5 +43,6 @@
     "winscp":       "generic",
     "wsus":         "generic",
     "xboxlive":     "generic"
+    
   }
 }
